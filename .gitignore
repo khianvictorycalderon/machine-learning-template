@@ -73,3 +73,10 @@ pip-wheel-metadata/
 # =========================
 Thumbs.db
 Desktop.ini
+
+# =========================
+# Data / Dataset
+# =========================
+data/
+dataset/
+datasets/
